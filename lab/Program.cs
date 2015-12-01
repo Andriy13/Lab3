@@ -11,6 +11,11 @@ namespace lab
         static void Main(string[] args)
         {
             CreditCard cc = new CreditCard();
+            Money bank = new Money();
+            Money me = new Money();
+            me.Add(bank,1000000);
+            Console.WriteLine(bank.Count);
+            Console.WriteLine(me.Count);
         }
     }
 }

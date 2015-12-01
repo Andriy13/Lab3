@@ -1,1 +1,2 @@
 C:\Users\wds\Desktop\lab\lab\bin\Debug\lab.exe.config
+C:\Users\wds\Desktop\Lab3\Lab3\lab\bin\Debug\lab.exe.config
